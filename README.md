@@ -3,11 +3,12 @@
 Giảng viên hướng dẫn: Phan Thị Phương Nam
 Sinh viên thực hiện: Nguyễn Hoài An
 
-##Mô tả
+## Mô tả
 Đề tài tập trung vào việc xây dựng một cơ sở dữ liệu hiệu quả và linh hoạt nhằm thu thập, lưu trữ và phân tích dữ liệu từ các cuộc khảo sát đánh giá mức độ hài lòng của sinh viên về quá trình học tập cuối khóa. Thay vì sử dụng các cơ sở dữ liệu quan hệ truyền thống, đề tài này sẽ ứng dụng cơ sở dữ liệu NoSQL để khai thác tối đa các ưu điểm về khả năng mở rộng, linh hoạt trong cấu trúc dữ liệu và khả năng xử lý dữ liệu lớn.
 
-##Thiết kế cơ sở dữ liệu
+## Thiết kế cơ sở dữ liệu
 ``
+
 --Dữ liệu mẫu và truy vấn sẽ thực hiện qua file CSN.sinhVien.json
 
 Cơ sở dữ liệu khảo sát cần cho phép:
