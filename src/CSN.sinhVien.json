@@ -1,0 +1,980 @@
+[{
+  "_id": "001",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "001",
+      "hoTen": "Nguyễn Thanh Tùng",
+      "lop": "DA22TTA",
+      "khoa": "Kỹ thuật và Công nghệ",
+      "nganh": "Công nghệ thông tin",
+      "sdt": "0123456789",
+      "mailSv": "001@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 5,
+            "2. Chương trình học cung cấp kiến thức thực tế": 5,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 5,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 5,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 5,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 5,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 5,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc": 5
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 5,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 5,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 5,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 5,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 5,
+            "15. Thủ tục mượn trả sách nhanh chóng": 5
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 5,
+            "17. Trang thiết bị phòng học hoạt động tốt": 5,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 5,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "002",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "002",
+      "hoTen": "Nguyễn Mạnh Hùng",
+      "lop": "DA22TTA",
+      "khoa": "Kỹ thuật và Công nghệ",
+      "nganh": "Công nghệ thông tin",
+      "sdt": "01234567891",
+      "mailSv": "002@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 4,
+            "2. Chương trình học cung cấp kiến thức thực tế": 4,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 4,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 4,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 4,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 4,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 4,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 4,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 4
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 4,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 4,
+            "15. Thủ tục mượn trả sách nhanh chóng": 4
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 4,
+            "17. Trang thiết bị phòng học hoạt động tốt": 4,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 4
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "003",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "003",
+      "hoTen": "Trần Thanh Tâm",
+      "lop": "DA22TTC",
+      "khoa": "Kỹ thuật và Công nghệ",
+      "nganh": "Công nghệ thông tin",
+      "sdt": "01234567892",
+      "mailSv": "003@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 4,
+            "2. Chương trình học cung cấp kiến thức thực tế": 4,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 4,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 4,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 4,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 4,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 5,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 5
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 5,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 5,
+            "15. Thủ tục mượn trả sách nhanh chóng": 5
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 4,
+            "17. Trang thiết bị phòng học hoạt động tốt": 4,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "004",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "004",
+      "hoTen": "Bùi Ngọc Hằng",
+      "lop": "DA22TTC",
+      "khoa": "Kỹ thuật và Công nghệ",
+      "nganh": "Công nghệ thông tin",
+      "sdt": "01234567893",
+      "mailSv": "004@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 5,
+            "2. Chương trình học cung cấp kiến thức thực tế": 5,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 5,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 5,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 5,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 5,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 5,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 5
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 4,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 4,
+            "15. Thủ tục mượn trả sách nhanh chóng": 4
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 5,
+            "17. Trang thiết bị phòng học hoạt động tốt": 5,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có"
+      }
+    }
+  }
+},
+{
+  "_id": "005",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "005",
+      "hoTen": "Lê Quỳnh Như",
+      "lop": "DA22TTC",
+      "khoa": "Kỹ thuật và Công nghệ",
+      "nganh": "Công nghệ thông tin",
+      "sdt": "01234567894",
+      "mailSv": "005@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 4,
+            "2. Chương trình học cung cấp kiến thức thực tế": 4,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 5,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 5,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 4,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 5,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 4,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 4,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 5
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 5,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 5,
+            "15. Thủ tục mượn trả sách nhanh chóng": 5
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 5,
+            "17. Trang thiết bị phòng học hoạt động tốt": 5,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "006",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "006",
+      "hoTen": "Trần Thị Hương",
+      "lop": "DA22THA",
+      "khoa": "Sư phạm",
+      "nganh": "Sư phạm Tiểu học",
+      "sdt": "01234567895",
+      "mailSv": "006@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 4,
+            "2. Chương trình học cung cấp kiến thức thực tế": 4,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 4,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 5,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 5,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 4,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 5,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 5
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 5,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 5,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 5,
+            "15. Thủ tục mượn trả sách nhanh chóng": 4
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 5,
+            "17. Trang thiết bị phòng học hoạt động tốt": 5,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "007",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "007",
+      "hoTen": "Trần Hồng Quang",
+      "lop": "DA22THA",
+      "khoa": "Sư phạm",
+      "nganh": "Sư phạm Tiểu học",
+      "sdt": "0123456789",
+      "mailSv": "007@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 5,
+            "2. Chương trình học cung cấp kiến thức thực tế": 5,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 5,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 5,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 5,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 5,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 5,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 5
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 4,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 4,
+            "15. Thủ tục mượn trả sách nhanh chóng": 4
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 4,
+            "17. Trang thiết bị phòng học hoạt động tốt": 4,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 4
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "008",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "008",
+      "hoTen": "Phạm Văn Vinh",
+      "lop": "DA22THB",
+      "khoa": "Sư phạm",
+      "nganh": "Sư phạm Tiểu học",
+      "sdt": "0123456789",
+      "mailSv": "008@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 5,
+            "2. Chương trình học cung cấp kiến thức thực tế": 4,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 5,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 4,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 5,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 4,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 4,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 5
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 5,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 4,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 5,
+            "15. Thủ tục mượn trả sách nhanh chóng": 4
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 5,
+            "17. Trang thiết bị phòng học hoạt động tốt": 4,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "009",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "009",
+      "hoTen": "Nguyễn Hồng Thanh",
+      "lop": "DA22THB",
+      "khoa": "Sư phạm",
+      "nganh": "Sư phạm Tiểu học",
+      "sdt": "0123456789",
+      "mailSv": "009@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 5,
+            "2. Chương trình học cung cấp kiến thức thực tế": 5,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 5,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 4,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 5,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 4,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 5,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 5
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 5,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 4,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 5,
+            "15. Thủ tục mượn trả sách nhanh chóng": 5
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 5,
+            "17. Trang thiết bị phòng học hoạt động tốt": 4,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "010",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "010",
+      "hoTen": "Trần Văn Quyết",
+      "lop": "DA22THB",
+      "khoa": "Sư phạm",
+      "nganh": "Sư phạm Tiểu học",
+      "sdt": "0123456789",
+      "mailSv": "010@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 5,
+            "2. Chương trình học cung cấp kiến thức thực tế": 5,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 5,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 5,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 5,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 5,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 5,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 5
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 5,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 5,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 5,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 5,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 5,
+            "15. Thủ tục mượn trả sách nhanh chóng": 5
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 4,
+            "17. Trang thiết bị phòng học hoạt động tốt": 4,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 4
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "011",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "011",
+      "hoTen": "Nguyễn Văn Mạnh",
+      "lop": "DA22CKA",
+      "khoa": "Kỹ thuật và Công nghệ",
+      "nganh": "Cơ khí",
+      "sdt": "0123456789",
+      "mailSv": "011@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 5,
+            "2. Chương trình học cung cấp kiến thức thực tế": 4,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 4,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 5,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 5,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 5,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 5,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 4
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 4,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 5,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 5,
+            "15. Thủ tục mượn trả sách nhanh chóng": 5
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 5,
+            "17. Trang thiết bị phòng học hoạt động tốt": 5,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "012",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "012",
+      "hoTen": "Phan Văn Nam",
+      "lop": "DA22CKA",
+      "khoa": "Kỹ thuật và Công nghệ",
+      "nganh": "Cơ khí",
+      "sdt": "0123456789",
+      "mailSv": "012@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 4,
+            "2. Chương trình học cung cấp kiến thức thực tế": 4,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 4,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 4,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 4,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 4,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 4,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 4,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 4
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 4,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 4,
+            "15. Thủ tục mượn trả sách nhanh chóng": 4
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 5,
+            "17. Trang thiết bị phòng học hoạt động tốt": 5,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "013",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "013",
+      "hoTen": "Đặng Thị Thu",
+      "lop": "DA22CKA",
+      "khoa": "Kỹ thuật và Công nghệ",
+      "nganh": "Cơ khí",
+      "sdt": "0123456789",
+      "mailSv": "013@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 5,
+            "2. Chương trình học cung cấp kiến thức thực tế": 5,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 5,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 5,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 5,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 5,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 5,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 5
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 4,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 4,
+            "15. Thủ tục mượn trả sách nhanh chóng": 4
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 5,
+            "17. Trang thiết bị phòng học hoạt động tốt": 5,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 4
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "014",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "014",
+      "hoTen": "Vũ Ngọc Anh",
+      "lop": "DA22CKB",
+      "khoa": "Kỹ thuật và Công nghệ",
+      "nganh": "Cơ khí",
+      "sdt": "0123456789",
+      "mailSv": "014@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 5,
+            "2. Chương trình học cung cấp kiến thức thực tế": 5,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 5,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 5,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 5,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 5,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 5,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 5
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 4,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 4,
+            "15. Thủ tục mượn trả sách nhanh chóng": 4
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 4,
+            "17. Trang thiết bị phòng học hoạt động tốt": 4,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "015",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "015",
+      "hoTen": "Hoàng Văn Tuấn",
+      "lop": "DA22CKB",
+      "khoa": "Kỹ thuật và Công nghệ",
+      "nganh": "Cơ khí",
+      "sdt": "0123456789",
+      "mailSv": "015@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 4,
+            "2. Chương trình học cung cấp kiến thức thực tế": 4,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 4,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 5,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 5,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 5,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 4,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 4
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 5,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 5,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 4,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 4,
+            "15. Thủ tục mượn trả sách nhanh chóng": 5
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 5,
+            "17. Trang thiết bị phòng học hoạt động tốt": 4,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "016",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "016",
+      "hoTen": "Nguyễn Thị Lan",
+      "lop": "DA22MNA",
+      "khoa": "Sư phạm",
+      "nganh": "Sư phạm mầm non",
+      "sdt": "0123456789",
+      "mailSv": "016@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 5,
+            "2. Chương trình học cung cấp kiến thức thực tế": 5,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 4,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 4,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 4,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 5,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 4,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 4
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 5,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 5,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 4,
+            "15. Thủ tục mượn trả sách nhanh chóng": 5
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 4,
+            "17. Trang thiết bị phòng học hoạt động tốt": 5,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "017",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "017",
+      "hoTen": "Bùi Thị Hương",
+      "lop": "DA22MNA",
+      "khoa": "Sư phạm",
+      "nganh": "Sư phạm mầm non",
+      "sdt": "0123456789",
+      "mailSv": "017@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 4,
+            "2. Chương trình học cung cấp kiến thức thực tế": 4,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 5,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 5,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 5,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 4,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 5,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 4
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 5,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 5,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 5,
+            "15. Thủ tục mượn trả sách nhanh chóng": 4
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 4,
+            "17. Trang thiết bị phòng học hoạt động tốt": 5,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "018",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "018",
+      "hoTen": "Vũ Thị Hằng",
+      "lop": "DA22MNA",
+      "khoa": "Sư phạm",
+      "nganh": "Sư phạm mầm non",
+      "sdt": "0123456789",
+      "mailSv": "018@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 5,
+            "2. Chương trình học cung cấp kiến thức thực tế": 5,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 4,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 4,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 4,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 4,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 4,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 5
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 5,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 5,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 5,
+            "15. Thủ tục mượn trả sách nhanh chóng": 4
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 5,
+            "17. Trang thiết bị phòng học hoạt động tốt": 5,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "019",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "019",
+      "hoTen": "Nguyễn Ngọc Anh",
+      "lop": "DA22MNB",
+      "khoa": "Sư phạm",
+      "nganh": "Sư phạm mầm non",
+      "sdt": "0123456789",
+      "mailSv": "019@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 5,
+            "2. Chương trình học cung cấp kiến thức thực tế": 5,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 4,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 4,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 4,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 4,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 4,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 4,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 4
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 4,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 4,
+            "15. Thủ tục mượn trả sách nhanh chóng": 5
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 5,
+            "17. Trang thiết bị phòng học hoạt động tốt": 4,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 4
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+},
+{
+  "_id": "020",
+  "sinhVien": {
+    "thongtinsv": {
+      "mssv": "020",
+      "hoTen": "Bùi Thị Thu Hà",
+      "lop": "DA22MNB",
+      "khoa": "Sư phạm",
+      "nganh": "Sư phạm mầm non",
+      "sdt": "0123456789",
+      "mailSv": "020@st.tvu.edu.vn"
+    },
+    "khaosat": {
+      "ngayKhaoSat": "2024-11-20",
+      "phan1": {
+        "mucDoDongY": {
+          "chuongTrinhDaoTao": {
+            "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 4,
+            "2. Chương trình học cung cấp kiến thức thực tế": 4,
+            "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 4,
+            "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 4,
+            "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 4,
+            "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 4,
+            "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 4,
+            "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 4,
+            "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc ": 4
+          },
+          "cacHoatDongHoTro": {
+            "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 4,
+            "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 4,
+            "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 4,
+            "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 4,
+            "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 4,
+            "15. Thủ tục mượn trả sách nhanh chóng": 4
+          },
+          "coSoVatChat": {
+            "16. Phòng học thoáng mát, đủ ánh sáng": 4,
+            "17. Trang thiết bị phòng học hoạt động tốt": 4,
+            "18. Hệ thống internet, wifi đáp ứng yêu cầu": 4,
+            "19. Website của khoa, trường cung cấp thông tin cần thiết": 4
+          }
+        }
+      },
+      "phan2": {
+        "kienNghi": "không có kiến nghị"
+      }
+    }
+  }
+}]
