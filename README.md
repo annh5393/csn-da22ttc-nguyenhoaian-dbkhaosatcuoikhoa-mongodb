@@ -10,7 +10,7 @@ Sinh viên thực hiện: Nguyễn Hoài An
 ## Thiết kế cơ sở dữ liệu
 ``
 
--- Dữ liệu mẫu và truy vấn sẽ thực hiện qua file CSN.sinhVien.json
+Dữ liệu mẫu và truy vấn sẽ thực hiện qua file CSN.sinhVien.json
 
 Cơ sở dữ liệu khảo sát cần cho phép:
 -	Quản lý thông tin sinh viên, bao gồm mssv, họ tên, ngành, khoa, và thông tin liên hệ.
@@ -34,7 +34,8 @@ Qua quá trình nghiên cứu và thực nghiệm, kết quả sau khi hoàn th�
 -	Tính linh hoạt trong việc bổ sung các câu hỏi khảo sát hoặc thay đổi cấu trúc phiếu khảo sát.
 -	Hỗ trợ truy vấn nhanh.
 
-###Thông tin liên hệ
+##Thông tin liên hệ
+
 Email: annguyen12900@gmail.com
 
 Số điện thoại: 0939588312
