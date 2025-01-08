@@ -34,7 +34,7 @@ Qua quá trình nghiên cứu và thực nghiệm, kết quả sau khi hoàn th�
 -	Tính linh hoạt trong việc bổ sung các câu hỏi khảo sát hoặc thay đổi cấu trúc phiếu khảo sát.
 -	Hỗ trợ truy vấn nhanh.
 
-Thông tin liên hệ
+#Thông tin liên hệ
 
 Email: annguyen12900@gmail.com
 
