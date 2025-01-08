@@ -2,7 +2,7 @@
 
 ---
 
-**Giảng viên hướng dẫn:** Phan Thị Phương Nam
+**Giảng viên hướng dẫn:** ThS. Phan Thị Phương Nam
 
 **Sinh viên thực hiện:** Nguyễn Hoài An
 
