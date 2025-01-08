@@ -54,6 +54,87 @@ Qua quá trình nghiên cứu và thực nghiệm, kết quả sau khi hoàn th�
 
 ---
 
+### Các câu lệnh truy vấn mẫu
+
+#### 1. Thêm tài liệu (Insert)
+```javascript
+// Thêm một sinh viên mới vào cơ sở dữ liệu
+db.sinhVien.insertOne(
+  {
+    "_id": "001",
+    "sinhVien": {
+      "thongtinsv": {
+        "mssv": "001",
+        "hoTen": "Nguyễn Thanh Tùng",
+        "lop": "DA22TTA",
+        "khoa": "Kỹ thuật và Công nghệ",
+        "nganh": "Công nghệ thông tin",
+        "sdt": "0123456789",
+        "mailSv": "001@st.tvu.edu.vn"
+      },
+      "khaosat": {
+        "ngayKhaoSat": "2024-11-20",
+        "phan1": {
+          "mucDoDongY": {
+            "chuongTrinhDaoTao": {
+              "1. Ngành học có mục tiêu rõ ràng và phù hợp với yêu cầu xã hội": 5,
+              "2. Chương trình học cung cấp kiến thức thực tế": 5,
+              "3. Cấu trúc chương trình đào tạo linh hoạt, tạo điều kiện thuận lợi cho sinh viên": 5,
+              "4. Tỷ lệ phân bố giữa lý thuyết và thực hành hợp lý": 5,
+              "5. Các kỳ thi, kiểm tra đảm bảo nghiêm túc, khách quan, công bằng": 5,
+              "6. Tài liệu đáp ứng được nhu cầu học tập của SV": 5,
+              "7. Giảng viên khuyến khích sinh viên chủ động tham gia vào các hoạt động học tập": 5,
+              "8. Chương trình học giúp sinh viên phát triển những kỹ năng mềm": 5,
+              "9. Chương trình cung cấp các kiến thức và kỹ năng cần thiết cho công việc": 5
+            },
+            "cacHoatDongHoTro": {
+              "10. Các hoạt động định hướng nghề nghiệp truyền cảm hứng giúp bạn yêu nghề": 5,
+              "11. Các hoạt động tư vấn, hỗ trợ việc làm của trường giúp sinh viên thuận lợi trong quá trình tìm việc": 5,
+              "12. Các hoạt động ngoại khóa được phổ biến rộng rãi đến SV": 5,
+              "13. Chương trình hoạt động ngoại khóa phù hợp và giúp SV rèn luyện kỹ năng": 5,
+              "14. Giờ mở cửa thư viện phù hợp với nhu cầu học tập của SV": 5,
+              "15. Thủ tục mượn trả sách nhanh chóng": 5
+            },
+            "coSoVatChat": {
+              "16. Phòng học thoáng mát, đủ ánh sáng": 5,
+              "17. Trang thiết bị phòng học hoạt động tốt": 5,
+              "18. Hệ thống internet, wifi đáp ứng yêu cầu": 5,
+              "19. Website của khoa, trường cung cấp thông tin cần thiết": 5
+            }
+          }
+        },
+        "phan2": {
+          "kienNghi": "không có kiến nghị"
+        }
+      }
+    }
+  }
+);
+```
+
+#### 2. Truy xuất tài liệu (Find)
+```javascript
+// Tìm tất cả các sinh viên trong ngành Công nghệ thông tin
+db.sinhVien.find({ "sinhVien.thongtinsv.nganh": "Công nghệ thông tin" });
+```
+
+#### 3. Cập nhật tài liệu (Update)
+```javascript
+// Cập nhật thông tin liên hệ của sinh viên có mssv "001"
+db.sinhVien.updateOne(
+  { "sinhVien.thongtinsv.mssv": "001" },
+  { $set: { "sinhVien.thongtinsv.mailSv": "newemail@example.com" } }
+);
+```
+
+#### 4. Xóa tài liệu (Delete)
+```javascript
+// Xóa sinh viên có mssv "001" khỏi cơ sở dữ liệu
+db.sinhVien.deleteOne({ "sinhVien.thongtinsv.mssv": "001" });
+```
+
+---
+
 ### Thông tin liên hệ
 
 - **Email**: [annguyen12900@gmail.com](mailto:annguyen12900@gmail.com)
